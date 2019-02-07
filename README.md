@@ -13,10 +13,8 @@ Stack Overflow is something which every programmer use one way or another. Each 
 <p style='font-size:18px'><b> Source:  </b> https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/</p>
 
 <h1> Objectives </h1>
-1. Predict as many tags as possible with high precision and recall.
-
-2. Incorrect tags could impact customer experience on StackOverflow.
-
+1. Predict as many tags as possible with high precision and recall.<br>
+2. Incorrect tags could impact customer experience on StackOverflow.<br>
 3. No strict latency constraints.
   
 [Find the work here](https://nbviewer.jupyter.org/github/chauhanakash23/StackOverflow-Tag-prediction/blob/master/SO_Tag_Predictor.ipynb)  
