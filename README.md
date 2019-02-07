@@ -12,7 +12,7 @@ Stack Overflow is something which every programmer use one way or another. Each 
 
 <p style='font-size:18px'><b> Source:  </b> https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/</p>
 
-<h1> Objectives <h1>
+<h1> Objectives </h1>
 1. Predict as many tags as possible with high precision and recall.
 2. Incorrect tags could impact customer experience on StackOverflow.
 3. No strict latency constraints.
