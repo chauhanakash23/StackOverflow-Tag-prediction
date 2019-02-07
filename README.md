@@ -1,7 +1,7 @@
 # StackOverflow-Tag-prediction
 Problem: Given the Title and body of a question on Stack overflow, predict the tags associated with the question.
 
-<h1>1. Business Problem </h1>
+<h1>Business Problem </h1>
 <p style='font-size:18px'><b> Description </b></p>
 <p>
 Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.<br />
@@ -14,7 +14,9 @@ Stack Overflow is something which every programmer use one way or another. Each 
 
 <h1> Objectives </h1>
 1. Predict as many tags as possible with high precision and recall.
+
 2. Incorrect tags could impact customer experience on StackOverflow.
+
 3. No strict latency constraints.
   
 [Find the work here](https://nbviewer.jupyter.org/github/chauhanakash23/StackOverflow-Tag-prediction/blob/master/SO_Tag_Predictor.ipynb)  
