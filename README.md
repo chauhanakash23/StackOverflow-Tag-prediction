@@ -16,6 +16,4 @@ Stack Overflow is something which every programmer use one way or another. Each 
 1. Predict as many tags as possible with high precision and recall.<br>
 2. Incorrect tags could impact customer experience on StackOverflow.<br>
 3. No strict latency constraints.
-  
-[Find the work here](https://nbviewer.jupyter.org/github/chauhanakash23/StackOverflow-Tag-prediction/blob/master/SO_Tag_Predictor.ipynb)  
-  
+   
